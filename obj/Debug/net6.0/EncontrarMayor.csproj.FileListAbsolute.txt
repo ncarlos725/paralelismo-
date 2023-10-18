@@ -1,0 +1,14 @@
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\bin\Debug\net6.0\EncontrarMayor.exe
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\bin\Debug\net6.0\EncontrarMayor.deps.json
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\bin\Debug\net6.0\EncontrarMayor.runtimeconfig.json
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\bin\Debug\net6.0\EncontrarMayor.dll
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\bin\Debug\net6.0\EncontrarMayor.pdb
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.AssemblyInfoInputs.cache
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.AssemblyInfo.cs
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.dll
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\refint\EncontrarMayor.dll
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.pdb
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\EncontrarMayor.genruntimeconfig.cache
+C:\Users\Carlo\source\repos\EncontrarMayor\EncontrarMayor\obj\Debug\net6.0\ref\EncontrarMayor.dll
